@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/34881461/212485455-642aebdb-23c0-4e9d-b52f-7702e5bf3b05.png)
+
 # wechatbot
 
 > 本项目是 fork 他人的项目来进行学习和使用，请勿商用，可以下载下来做自定义的功能
